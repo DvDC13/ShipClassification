@@ -3,4 +3,4 @@ This involves creating 2 convolutional neural networks that classify ship images
 
 # Ranking
 - A La Mano : 1/95
-- libre : 6/90
+- Libre : 6/90
